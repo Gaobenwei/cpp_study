@@ -6,11 +6,11 @@
 
 ## effective c++:
 
-[effective c++](./effective c++.md)
+[effective_c++](./effective c++.md)
 
 ## more effective c++
 
-[more effective c++](./more effective c++.md)
+[more_effective_c++](./more effective c++.md)
 
 ## 深度探索C++对象模型：
 
